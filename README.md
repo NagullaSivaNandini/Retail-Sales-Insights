@@ -80,7 +80,7 @@ Some key SQL queries performed:
 ### 🔎 Dashboard Screenshots
 
 **Key Insights Dashboard**
-![Key Insights](key_insights.png.png)
+![Key Insights](https://github.com/NagullaSivaNandini/Retail-Sales-Insights/blob/main/key_insights.png)
 
 **Profit Analysis Dashboard**
 ![Profit Analysis](profit_analysis.png.png)
