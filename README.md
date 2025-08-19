@@ -86,7 +86,7 @@ Some key SQL queries performed:
 ![Profit Analysis](profit_analysis.png.png)
 
 **Performance Insights Dashboard**
-![Performance Insights](performance_insights.png.png)
+![Performance Insights](https://github.com/NagullaSivaNandini/Retail-Sales-Insights/blob/main/performance_insights.png)
 
 ---
 
