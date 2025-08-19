@@ -83,7 +83,7 @@ Some key SQL queries performed:
 ![Key Insights](https://github.com/NagullaSivaNandini/Retail-Sales-Insights/blob/main/key_insights.png)
 
 **Profit Analysis Dashboard**
-![Profit Analysis](profit_analysis.png.png)
+![Profit Analysis](https://github.com/NagullaSivaNandini/Retail-Sales-Insights/blob/main/profit_analysis.png)
 
 **Performance Insights Dashboard**
 ![Performance Insights](https://github.com/NagullaSivaNandini/Retail-Sales-Insights/blob/main/performance_insights.png)
